@@ -1,14 +1,16 @@
 # Restorative_Quality
-the following paper: Assessment of attention restoration quality on a college campus: A machine learning-based approach.
-we propose a machine learning (ML)-based method for high-resolution, large-scale assessment of the restorative qualities of campus environments using Street View Images (SVIs).
-## Model
-<img src="https://user-images.githubusercontent.com/108106537/234453825-6c063a07-6c64-4f40-a866-a3c9373af8c5.jpg" width = "500" >
+> the following paper: Assessment of attention restoration quality on a college campus: A machine learning-based approach.
+> we propose a machine learning (ML)-based method for high-resolution, large-scale assessment of the restorative qualities of campus environments using Street View Images (SVIs).
+> 
+> <img src="https://user-images.githubusercontent.com/108106537/234453825-6c063a07-6c64-4f40-a866-a3c9373af8c5.jpg" width = "600" >
 
 ## Requirements
+```bash
 Python 3.7
-Pytorch
+torch
 pandas
 Numpy
+```
 
 ## BibTeX
 ```bash
